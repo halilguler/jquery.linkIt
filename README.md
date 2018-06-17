@@ -6,6 +6,13 @@
 0.1.0
 
 ## Usage ##
+	
+	$('span').linkIt({
+				href: 'http://test.com',
+				text: 'click me',
+				target: '_blank'
+
+			});
 
 ## Vendors ##
 
