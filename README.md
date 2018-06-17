@@ -1,4 +1,4 @@
-##LinkIt jQuery Plugin##
+#LinkIt jQuery Plugin#
 
 **LinkIt** is a simple jQuery plugin to attacj links to alements
 
